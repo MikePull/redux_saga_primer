@@ -1,10 +1,1 @@
-npm install
-```
-
-```
-npm start
-```
-
-```
-npm test
-```
+npm install | npm start | npm test
